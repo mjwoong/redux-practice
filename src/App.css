@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  border: 1px solid blue; 
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.number {
+  margin-right: 10px;
+}
